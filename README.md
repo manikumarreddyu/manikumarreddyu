@@ -1,5 +1,5 @@
 
-
+![logo](https://github.com/manikumarreddyu/manikumarreddyu/blob/main/MANI%20KUMAR%20REDDY%20U.png)
 <h1 align="center">Hi 👋, I'm MANI KUMAR REDDY U</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
