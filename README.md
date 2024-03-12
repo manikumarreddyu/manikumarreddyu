@@ -1,5 +1,5 @@
 
-![logo](https://www.canva.com/design/DAF_Ss-gVng/fvHiWYfUF99aT6lfpgzEDQ/view?utm_content=DAF_Ss-gVng&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 <h1 align="center">Hi 👋, I'm MANI KUMAR REDDY U</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
