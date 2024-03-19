@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm MANI KUMAR REDDY U</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/manikumarreddyu/manikumarreddyu/blob/main/coding-freak.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 [![](https://visitcount.itsvg.in/api?id=manikumarreddyu&icon=4&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
