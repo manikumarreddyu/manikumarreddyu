@@ -150,10 +150,7 @@
 
 
 ### ✍️ Random Dev Quote
-
-<div align="center">
- <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
