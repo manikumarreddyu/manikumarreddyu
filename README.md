@@ -119,12 +119,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=manikumarreddyu&layout=compact&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="piug-07" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=manikumarreddyu&layout=compact&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="manikumarreddyu"" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manikumarreddyu&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manikumarreddyu&theme=radical&no-frame=false&no-bg=false&margin-w=2" />
 </p>
 
 <!-- ### 🔝 Top Contributed Repo -->
