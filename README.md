@@ -124,7 +124,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manikumarreddyu&theme=radical&no-frame=false&no-bg=false&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manikumarreddyu&theme=radical&no-frame=false&no-bg=false&margin-w=30" />
 </p>
 
 <!-- ### 🔝 Top Contributed Repo -->
