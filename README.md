@@ -1,7 +1,7 @@
 ![logo](https://github.com/manikumarreddyu/manikumarreddyu/blob/main/mani.png)
 <h1 align="center">Hi 👋, I'm Mani Kumar Reddy</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=530&lines=Bring+your+sense+of+humor+-+it's+mandatory!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=530&lines=Bring+your+sense+of+humor+-+it's+mandatory!" alt="Typing SVG" /></a>
 
 
 <br><br>
@@ -36,6 +36,8 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54" />
+  
 
 </p>
  <h3>Web Development</h3>
