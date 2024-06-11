@@ -154,15 +154,13 @@
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 </p>
-
 <div align="center">
  --- Show some ❤️ by starring some of the repositories! ---
 </div>
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 </p>
- <br>
-<div align="center">
+ <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
@@ -187,5 +185,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
+</p>
 
-<img align="right" alt="Coder GIF" height=500 width=1000 src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
