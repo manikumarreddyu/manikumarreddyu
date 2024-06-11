@@ -124,7 +124,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manikumarreddyu&theme=radical&no-frame=false&no-bg=false&margin-w=100" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manikumarreddyu&theme=radical&no-frame=false&no-bg=false&margin-w=1" />
 </p>
 
 <!-- ### 🔝 Top Contributed Repo -->
@@ -139,6 +139,7 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 <br>
+</p>
   <!-- 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=manikumarreddyu&limit=5&theme=light&combine_all_yearly_contributions=true)-->
@@ -148,14 +149,21 @@
 ![](https://github-profile-trophy.vercel.app/?username=manikumarreddyu&theme=light&no-frame=false&no-bg=false&margin-w=4)-->
 
 
+<div align="center">
+ ### ✍️ Random Dev Quote
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+</div>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
+</p>
 
 <div align="center">
  --- Show some ❤️ by starring some of the repositories! ---
 </div>
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
+</p>
  <br>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
