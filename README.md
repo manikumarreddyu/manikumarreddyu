@@ -24,7 +24,7 @@
   &nbsp;<img
            width="466"
     src="https://github-readme-stats.vercel.app/api?username=manikumarreddyu&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=false&count_private=false"
-    alt="piug-07"
+    alt="manikumarreddyu"
   />
 </p>
 
@@ -33,7 +33,7 @@
   <img
      width="466"
     src="https://github-readme-streak-stats.herokuapp.com/?user=manikumarreddyu&theme=radical&hide_border=true"
-    alt="piug-07"
+    alt="manikumarreddyu"
   />
 </p>
 
@@ -49,9 +49,17 @@
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikumarreddyu&layout=compact&langs_count=10&count_private=true&theme=radical&hide_border=true" alt="piug-07" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikumarreddyu&layout=compact&langs_count=10&count_private=true&theme=radical&hide_border=true" alt="manikumarreddyu" />
 </p>
 
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=manikumarreddyu&layout=compact&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="piug-07" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manikumarreddyu&theme=light&no-frame=false&no-bg=false&margin-w=4" />
+</p>
 
 <!-- ### 🔝 Top Contributed Repo -->
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=piug-07&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
@@ -65,12 +73,13 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 <br>
-  
+  <!-- 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manikumarreddyu&limit=5&theme=light&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=manikumarreddyu&limit=5&theme=light&combine_all_yearly_contributions=true)-->
 
+  <!-- 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manikumarreddyu&theme=light&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=manikumarreddyu&theme=light&no-frame=false&no-bg=false&margin-w=4)-->
 
 
 
