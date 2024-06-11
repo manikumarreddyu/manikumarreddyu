@@ -149,9 +149,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=manikumarreddyu&theme=light&no-frame=false&no-bg=false&margin-w=4)-->
 
 
+### ✍️ Random Dev Quote
+
 <div align="center">
- ### ✍️ Random Dev Quote
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+ <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
 </div>
 
 <p align="center">
