@@ -65,6 +65,19 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 <br>
+  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=manikumarreddyu&limit=5&theme=light&combine_all_yearly_contributions=true)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=manikumarreddyu&theme=light&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 <div align="center">
  --- Show some ❤️ by starring some of the repositories! ---
 </div>
@@ -96,16 +109,3 @@
 </div>
 
 <img align="right" alt="Coder GIF" height=330 width=1000 src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manikumarreddyu&theme=light&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manikumarreddyu&limit=5&theme=light&combine_all_yearly_contributions=true)
-
-<img align="center" src="https://camo.githubusercontent.com/db3e694adf3e8842bbb6f743275ee3123e559444a44edbfe7949c24c904f4627/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6879706e6f706172726f746c696768742e676966">
-<img align="center" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
-
