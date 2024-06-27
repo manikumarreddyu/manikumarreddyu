@@ -144,15 +144,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-
 <div align="center">
- --- Show some ❤️ by starring some of the repositories! ---
-</div>
-<!-- <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
-</p> -->
- <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
