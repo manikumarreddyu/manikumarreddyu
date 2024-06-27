@@ -1,4 +1,4 @@
-![logo](https://github.com/manikumarreddyu/manikumarreddyu/blob/main/mani.png)
+
 <h1 align="center">Hi 👋, I'm Mani Kumar Reddy</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=530&lines=Bring+your+sense+of+humor+-+it's+mandatory!" alt="Typing SVG" /></a>
