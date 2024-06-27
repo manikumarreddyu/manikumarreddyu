@@ -132,13 +132,7 @@
 <!-- ### ✍️ Random Dev Quote -->
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
-<p align="center">
- <br>
-<!-- <img src="https://i.imgur.com/x1KbuCq.gif" width="500"> -->
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
-<br>
-</p>
+
   <!-- 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=manikumarreddyu&limit=5&theme=light&combine_all_yearly_contributions=true)-->
@@ -151,15 +145,13 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
-</p>
+
 <div align="center">
  --- Show some ❤️ by starring some of the repositories! ---
 </div>
-<p align="center">
+<!-- <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
-</p>
+</p> -->
  <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
@@ -185,7 +177,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-<p align="center">
+<!-- <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
-</p>
+</p> -->
 
