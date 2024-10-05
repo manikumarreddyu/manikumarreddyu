@@ -192,10 +192,10 @@
 <h4 align="center" style="font-family: 'Poppins', sans-serif;">A Final Year Student pursuing Artificial Intellignece and Machine Learning at Aditya University</h4>
 <br><br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=Web+Developer;ML+Noob;Cricket+Addict;Anime+Lover;&center=true&width=500&height=60"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=Frontend+Developer;ML+Noob;Cricket+Addict;&center=true&width=500&height=60"></a>
 </p>
 
-<img align="right" alt="coding" height="312" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="coding" height="312" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> 
 
 - 🔭 I’m currently working on **Open Source Projects**
 
@@ -264,14 +264,14 @@
 <br><br> -->
 
 <p align="center"><b>Profile Views</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BJ-B-Mugundh10%7D/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Bmanikumarreddyu10%7D/count.svg" alt="visitor badge"/></p>
 <br>
 <!-- <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=J-B-Mugundh&style=for-the-badge&color=orange" alt=""/>
 </div> -->
 
 <p align="center">
-  <img src="https://github.com/manikumarreddyu/manikumarreddyu/blob/output/github-snake.svg" alt="snake">
+  <img src="https://github.com/J-B-Mugundh/J-B-Mugundh/blob/output/github-snake.svg" alt="snake">
 </p>
 
 <p align="center"><b>Have some fun!</b></p>
