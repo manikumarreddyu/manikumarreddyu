@@ -192,26 +192,19 @@
 <h4 align="center" style="font-family: 'Poppins', sans-serif;">A Final Year Student pursuing Artificial Intellignece and Machine Learning at Aditya University</h4>
 <br><br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=Frontend+Developer;ML+Noob;Cricket+Addict;&center=true&width=500&height=60"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=Frontend+Developer;Artificial+Intelligence;Machine+Learning;Deep+Learning;Cricket+Addict;&center=true&width=500&height=60"></a>
 </p>
 
-<img align="right" alt="coding" height="312" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> 
+<img align="right" alt="coding" height="312" width="360" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"> 
 
 - 🔭 I’m currently working on **Open Source Projects**
-
 - 🌱 I’m currently learning **Deep Learning and LLMs**
-
 - 👯 I’m looking to collaborate on **AI & ML Projects**
-
-- 🤝 I’m looking for help with **Competitive Programming**
-
-<!--- 👨‍💻 All of my projects are available at [My Projects](https://github.com/J-B-Mugundh)
-
-- 📝 Check out my portfolio at [Portfolio](https://j-b-mugundh.github.io/)
-
-- 💬 Ask me about **React js, Node js, MySQL, MongoDB**
--->
-
+- 🌱  I’m currently delving in new technologies; 
+- 👨🏻‍💻  Most of my projects are available on [Github](https://github.com/manikumarreddyu?tab=repositories)
+- 💬  Ask me about anything tech related, I am happy to help;
+- 📫  Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/manikumarreddyu/)
+- 📚  When I am free, I love to listen music. 
 - 📫 Mail me **manikumarreddyu@gmail.com**
 
 <br>
@@ -220,7 +213,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,bootstrap,php,react,nodejs,expressjs,mysql,mongodb,tailwind,nextjs,git,figma,latex,vite,visualstudio,wordpress&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,flask,java,androidstudio,html,css,bootstrap,tailwind,react,vite,npm,vercel,netlify,mysql,tensorflow,pytorch,sklearn,windows,vscode,terraform,sublime,postman,materialui,linkedin,discord,gmail,git,github,githubactions,&theme=dark" />
   </a>
 </p>
 
