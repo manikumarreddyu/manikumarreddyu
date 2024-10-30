@@ -104,49 +104,40 @@
 <br>
 
 
-<h2 align="center" style="font-family: 'Poppins', sans-serif;">🏆 Github Trophies</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manikumarreddyu&theme=radical" alt="manikumarreddyu" /></a> </p>
 
-<br>
 
-<!-- Statistics -->
+<!-- GitHub Analytics -->
+<h2>:octocat: GitHub Analytics</h2>
 
-<h2 align="center" style="font-family: 'Poppins', sans-serif;"><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics</h2>
-
-<div class="stats" align="center">
-
-<div align="center" >
-  <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=manikumarreddyu&show_icons=true&count_private=true&theme=radical" />
+  <div align="center">
+    <!-- GitHub stats -->
+    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manikumarreddyu&theme=react" alt="GitHub Stats" />  
+    <!-- Repositories per language -->
+    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manikumarreddyu&theme=react" alt="Top Languages" />
+    <!-- Graph of Commits -->
+<img align="center" height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=manikumarreddyu&theme=react&hide_border=true">
+<img align="center" width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manikumarreddyu&theme=react" alt="Graph of Commits" />
+<img align="center" width="600em" src="https://github-readme-activity-graph.vercel.app/graph?username=manikumarreddyu&bg_color=1F222E&color=F8D866&line=02d6d9&point=03a1a3&area=true&hide_border=true">
 </div>
 
-<br><br>
 
-<div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikumarreddyu&show_icons=true&theme=radical&card_width=500" />
-</div>
+## 🔰 Top Repositories
+   <p align="center">
+    <!-- CodeIt -->
+    <a href="https://github.com/manikumarreddyu/AgroTech-AI"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manikumarreddyu&repo=AgroTech-AI&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="AgroTech-AI">
+    </a>
+    <!-- Dataverse -->
+    <a href="https://github.com/manikumarreddyu/AgroTech-AI"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manikumarreddyu&repo=AgroTech-AI&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="AgroTech-AI">
+    </a>
+    <!-- House -->
+    <a href="https://github.com/manikumarreddyu/SMILE-DENTAL-CARE"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=manikumarreddyu&repo=SMILE-DENTAL-CARE&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="SMILE-DENTAL-CARE">
+    </a>
+  </p>     
 
-<br><br>
-
-<div align="center"><img src="https://streak-stats.demolab.com?user=manikumarreddyu&theme=radical" alt="GitHub Streak" /></div>
-
-<br><br>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=manikumarreddyu&layout=compact&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="manikumarreddyu"" />
-</p>
-
-<!--<br><br>
-
-[![An image of @jbmugundh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jbmugundh)](https://holopin.io/@jbmugundh)
-
-<br><br> -->
 
 <p align="center"><b>Profile Views</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bmanikumarreddyu10%7D/count.svg" alt="visitor badge"/></p>
 <br>
-<!-- <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=J-B-Mugundh&style=for-the-badge&color=orange" alt=""/>
-</div> -->
 
 <p align="center">
   <img src="https://github.com/J-B-Mugundh/J-B-Mugundh/blob/output/github-snake.svg" alt="snake">
